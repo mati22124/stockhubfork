@@ -2,7 +2,7 @@
 #  Realtime Stock Market Data Api: HOCIIJZHZ3J9TL7M
 
 # RapidAPI key: 8b597321fdmsh82efd0634f640b2p18f629jsn450b4a8c3609
-
+# rapid api link: https://rapidapi.com/apidojo/api/yahoo-finance1
 import requests
 
 url = "https://apidojo-yahoo-finance-v1.p.rapidapi.com/market/v2/get-quotes"
